@@ -4,7 +4,7 @@
 I'm a PhD researcher in Astrophysics at the University of Manchester, with a background in physics and computer science from NISER Bhubaneswar. I develop Python packages for exoplanet studies, like TransitFit for transmission spectroscopy and exoplanet demographics simulator. I have experience in teaching physics, laboratory demonstrations, and assessing and providing feedback to students. I am also involved in scientific outreach, having organized and presented at different conferences and public events.
 
 ## 🚀 Current Projects
-- 🪐 TransitFit: A Python package for exoplanet transmission spectroscopy
+- 🪐 [TransitFit](https://github.com/SPEARNET/TransitFit): A Python package for exoplanet transmission spectroscopy
 - 🌠 Exoplanet population model for demographic studies
 - 🤖 AI Response and Code Evaluator at DataAnnotation (Part-time)
 
@@ -38,7 +38,9 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 
 ## 🎓 Education
 - 🔬 PhD in Astronomy & Astrophysics | The University of Manchester (2021-2025 expected)
+  -Funded by [UKRI-STFC](https://www.ukri.org/councils/stfc/) scholarship. 
 - 🖥️ MSc. in Physics with Computer Science | NISER, Bhubaneswar (2016-2021)
+  -Funded by [DST-INSPIRE](https://online-inspire.gov.in/) scholarship.
 
 ## 📚 Publications
 1. [TransitFit](https://doi.org/10.1093/mnras/stad3353)
@@ -47,10 +49,10 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 4. [Simulation and prediction of exoplanet atmosphere](https://doi.org/10.3847/2041-8213/ac2f3a)
 
 ## 🎤 Presentations & Outreach
-- European Astronomical Meeting, 2023: Presented TransitFit
-- UK National Astronomy Meeting, 2023: Presented exoplanet demographics study
-- Strange New Worlds Conference, 2023: Presented exoplanet demographics study
-- UKEXOM, 2024: Presented exoplanet demographics study
+- European Astronomical Meeting, 2023: [Presented](https://eas2023programme.kuoni-congress.info/presentation/transitfit-a-python-package-for-fitting-multi-instrument-exoplanet-transit-from-jwst-hst-and-ground-based-transmission-spectroscopy-studies) TransitFit
+- UK National Astronomy Meeting, 2023: [Presented](https://nam2023.org/science/parallel-sessions/details/2/38) exoplanet demographics study
+- Strange New Worlds Conference, 2023: [Presented](https://www.iiserpune.ac.in/events/3515/exoplanet-conference-at-iiser-pune) exoplanet demographics study
+- UKEXOM, 2024: [Presented](http://www.exocommunity.uk/) exoplanet demographics study
 - Pint of Science, 2023: Talk on habitable exoplanets
 - UKSEDS, 2023: Hosted JWST workshop on detecting water in exoplanet WASP-96b
 - Bluedot festival, 2021: Exhibited at the JWST stand
