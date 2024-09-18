@@ -4,8 +4,9 @@
 I'm a PhD researcher in Astrophysics at the University of Manchester, with a background in physics and computer science from NISER Bhubaneswar. I develop Python packages for exoplanet studies, like TransitFit for transmission spectroscopy and exoplanet demographics simulator. I have experience in teaching physics, laboratory demonstrations, and assessing and providing feedback to students. I am also involved in scientific outreach, having organized and presented at different conferences and public events.
 
 ## 🚀 Current Projects
-- 🪐 Building an exoplanet population model
-- 🌠 Enhancing TransitFit for more accurate exoplanet analysis
+- 🪐 TransitFit: A Python package for exoplanet transmission spectroscopy
+- 🌠 Exoplanet population model for demographic studies
+- 🤖 AI Response and Code Evaluator at DataAnnotation (Part-time)
 
 ## 🧠 Learning
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
@@ -17,18 +18,42 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 🏆 Certifications
-- [AWS Certification](https://www.coursera.org/account/accomplishments/records/Z28HBZ3592YW)
-- [SQL Certification](https://www.credly.com/badges/4042e909-8f21-4f96-bd29-153db7ca5fb0/public_url)
+- [AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/Z28HBZ3592YW)
+- [Databases and SQL for Data Science](https://www.credly.com/badges/4042e909-8f21-4f96-bd29-153db7ca5fb0/public_url)
+- [LangChain for AI Chatbot Development](https://learn.deeplearning.ai/accomplishments/30a6ba77-5fea-490d-9d3f-c5347cc55c92?usp=sharing)
+- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/B03X3CUG9Y8Y)
+
 
 ## 👨‍💼 Experience
-- 🤖 **AI Models and Code Evaluator** @ DataAnnotation (Jul 2024 - Present)
+- 🤖 **AI Response and Code Evaluator** @ DataAnnotation (Jul 2024 - Present)
 - 👨‍🏫 **Graduate Teaching Assistant** @ The University of Manchester (Feb 2022 - Jul 2024)
+  - Demonstrator for General Physics lab, Electronics lab, and Introduction to Programming
+  - Teaching assistant for interdisciplinary course "Are we alone"
+
 
 ## 🎓 Education
-- 🔬 PhD in Astronomy & Astrophysics | The University of Manchester (2021-2025)
+- 🔬 PhD in Astronomy & Astrophysics | The University of Manchester (2021-2025 expected)
 - 🖥️ MSc. in Physics with Computer Science | NISER, Bhubaneswar (2016-2021)
+
+## 📚 Publications
+1. [TransitFit](https://doi.org/10.1093/mnras/stad3353)
+2. [TTV study using TransitFit](https://doi.org/10.3847/1538-3881/acfeea)
+3. [TTV of K2-237b](https://doi.org/10.1093/mnrasl/slae083)
+4. [Simulation and prediction of exoplanet atmosphere](https://doi.org/10.3847/2041-8213/ac2f3a)
+
+## 🎤 Presentations & Outreach
+- European Astronomical Meeting, 2023: Presented TransitFit
+- UK National Astronomy Meeting, 2023: Presented exoplanet demographics study
+- Strange New Worlds Conference, 2023: Presented exoplanet demographics study
+- UKEXOM, 2024: Presented exoplanet demographics study
+- Pint of Science, 2023: Talk on habitable exoplanets
+- UKSEDS, 2023: Hosted JWST workshop on detecting water in exoplanet WASP-96b
+- Bluedot festival, 2021: Exhibited at the JWST stand
 
 ## 📊 GitHub Stats
 <div align="center">
