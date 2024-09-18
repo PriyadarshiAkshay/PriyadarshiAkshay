@@ -71,9 +71,6 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 
 </div>
 
-## 🌟 Goals
-I believe that the intersection of astrophysics and technology is where the next big discoveries will happen. Always excited to explore new tech frontiers! 🌠🚀
-
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PriyadarshiAkshay&style=flat-square&color=blue" alt="Profile views">
