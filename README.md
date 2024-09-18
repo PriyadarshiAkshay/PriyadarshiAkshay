@@ -38,9 +38,9 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 
 ## 🎓 Education
 - 🔬 PhD in Astronomy & Astrophysics | The University of Manchester (2021-2025 expected)
-  -Funded by [UKRI-STFC](https://www.ukri.org/councils/stfc/) scholarship. 
+  - Funded by [UKRI-STFC](https://www.ukri.org/councils/stfc/) scholarship. 
 - 🖥️ MSc. in Physics with Computer Science | NISER, Bhubaneswar (2016-2021)
-  -Funded by [DST-INSPIRE](https://online-inspire.gov.in/) scholarship.
+  - Funded by [DST-INSPIRE](https://online-inspire.gov.in/) scholarship.
 
 ## 📚 Publications
 1. [TransitFit](https://doi.org/10.1093/mnras/stad3353)
