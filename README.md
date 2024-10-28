@@ -27,6 +27,7 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 - [Databases and SQL for Data Science](https://www.credly.com/badges/4042e909-8f21-4f96-bd29-153db7ca5fb0/public_url)
 - [LangChain for AI Chatbot Development](https://learn.deeplearning.ai/accomplishments/30a6ba77-5fea-490d-9d3f-c5347cc55c92?usp=sharing)
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/B03X3CUG9Y8Y)
+- [Hadoop and Spark on Google Cloud](https://www.coursera.org/account/accomplishments/verify/RZE94BA2S6EC)
 
 
 ## 👨‍💼 Experience
@@ -49,10 +50,11 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 4. [Simulation and prediction of exoplanet atmosphere](https://doi.org/10.3847/2041-8213/ac2f3a)
 
 ## 🎤 Presentations & Outreach
+- UK National Astronomy Meeting: [Organised](https://nam2024.hull.ac.uk/towards-100000-exoplanets/) a conference session on exoplanet population. Proposed, reviewed abstracts, and chaired the session.
+- UKEXOM, 2024: [Presented](http://www.exocommunity.uk/) exoplanet demographics study
 - European Astronomical Meeting, 2023: [Presented](https://eas2023programme.kuoni-congress.info/presentation/transitfit-a-python-package-for-fitting-multi-instrument-exoplanet-transit-from-jwst-hst-and-ground-based-transmission-spectroscopy-studies) TransitFit
 - UK National Astronomy Meeting, 2023: [Presented](https://nam2023.org/science/parallel-sessions/details/2/38) exoplanet demographics study
 - Strange New Worlds Conference, 2023: [Presented](https://www.iiserpune.ac.in/events/3515/exoplanet-conference-at-iiser-pune) exoplanet demographics study
-- UKEXOM, 2024: [Presented](http://www.exocommunity.uk/) exoplanet demographics study
 - Pint of Science, 2023: Talk on habitable exoplanets
 - UKSEDS, 2023: Hosted JWST workshop on detecting water in exoplanet WASP-96b
 - Bluedot festival, 2021: Exhibited at the JWST stand
