@@ -28,6 +28,7 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 - [LangChain for AI Chatbot Development](https://learn.deeplearning.ai/accomplishments/30a6ba77-5fea-490d-9d3f-c5347cc55c92?usp=sharing)
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/B03X3CUG9Y8Y)
 - [Hadoop and Spark on Google Cloud](https://www.coursera.org/account/accomplishments/verify/RZE94BA2S6EC)
+- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/records/J5ZXXN63KLRH)
 
 
 ## 👨‍💼 Experience
