@@ -29,6 +29,7 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 - [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/B03X3CUG9Y8Y)
 - [Hadoop and Spark on Google Cloud](https://www.coursera.org/account/accomplishments/verify/RZE94BA2S6EC)
 - [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/records/J5ZXXN63KLRH)
+- [Introduction to PySpark](https://www.coursera.org/account/accomplishments/verify/FP3BHWHLT9YI)
 
 
 ## 👨‍💼 Experience
