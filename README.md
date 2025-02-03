@@ -32,7 +32,6 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 
 
 ## 👨‍💼 Experience
-- 🤖 **AI Response and Code Evaluator** @ DataAnnotation (Part-time) (Jul 2024 - Present)
 - 👨‍🏫 **Graduate Teaching Assistant** @ The University of Manchester (Feb 2022 - Jul 2024)
   - Demonstrator for General Physics lab, Electronics lab, and Introduction to Programming
   - Teaching assistant for interdisciplinary course "Are we alone"
