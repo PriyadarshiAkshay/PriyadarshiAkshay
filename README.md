@@ -6,7 +6,6 @@ I'm a PhD researcher in Astrophysics at the University of Manchester, with a bac
 ## 🚀 Current Projects
 - 🪐 [TransitFit](https://github.com/SPEARNET/TransitFit): A Python package for exoplanet transmission spectroscopy
 - 🌠 Exoplanet population model for demographic studies
-- 🤖 AI Response and Code Evaluator at DataAnnotation (Part-time)
 
 ## 🧠 Learning
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
